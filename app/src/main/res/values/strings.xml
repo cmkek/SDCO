@@ -1,0 +1,17 @@
+<resources>
+    <string name="myapp">myapp</string>
+    <string name="tv">Estructura de Datos</string>
+    <string name="bt">Lista Simple</string>
+    <string name="bt2">Lista Doblemente Ligada</string>
+    <string name="bt3">Lista Circular</string>
+    <string name="bt4">Metodos de Ordenamiento</string>
+    <string name="txt1">Agregar</string>
+    <string name="txt2">Agrega valor</string>
+    <string name="txt3">Aqui se mostrarán los nodos</string>
+    <string name="tv4">A qui se mostrará el nodo anterior</string>
+    <string name="tv5">A qui se mostrará el nodo actual</string>}
+    <string name="tv6">A qui se mostrará la lista doblemente ligada</string>
+    <string name="burbuja">Metodo burbuja</string>
+    <string name="Wittsorf">Metodo QuickSort</string>
+
+</resources>
